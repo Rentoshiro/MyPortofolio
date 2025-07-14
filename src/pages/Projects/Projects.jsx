@@ -20,7 +20,7 @@ const projects = [
     src: "tree.jpg",
     link: "https://i.postimg.cc/j2BRf9dN/Screenshot-2025-07-13-200536.png",
     color: "#8f89ff",
-    githubLink: "https://github.com/Rentoshiro/Portofolio",
+    githubLink: "https://github.com/Rentoshiro/MyPortofolio",
     liveLink: "https://renat-portofolio.netlify.app/",
   },
   {
